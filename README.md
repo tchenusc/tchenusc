@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack IOS Application</b>
-  - [Squest: Gamified Life Improvement App](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Squest: Gamified Life Improvement App](https://github.com/tchenusc/Squest)
 - <b>Full Stack Web App</b>
   - [Spotify Personalized Playlist Web Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Systems-Level Design Simulators</b>
