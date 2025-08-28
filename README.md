@@ -1,16 +1,27 @@
-<h1>Hi, I'm Tony! <br/>
+<h1>Hi, I'm Tony! <br/></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
-- <b>Full Stack IOS Application</b>
-  - [Squest: Gamified Life Improvement App](https://github.com/tchenusc/Squest)
-- <b>Full Stack Web App</b>
-  - [Spotify Personalized Playlist Web Application](https://github.com/tchenusc/myanimelistToPlaylist/tree/main)
-- <b>Systems-Level Design Simulators</b>
-  - [C Cache Simulator (LRU, FIFO)](https://github.com/tchenusc/cache_simulator)
-  - C Dynamic Memory Allocator
-- <b>Collaborative Wep Apps</b>
-  - Rate My TA Full Stack Web Application
-  - Weather Full Stack Web Application
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Full Stack iOS Application</b>  
+  - <a href="https://github.com/tchenusc/Squest">Squest: Gamified Life Improvement App</a>  
+    - SwiftUI, UIKit, MVVM architecture  
+    - Supabase backend integration (Auth, Database, API)  
+    - End-to-end product lifecycle from roadmap to MVP  
+- <b>Full Stack Web App</b>  
+  - <a href="https://github.com/tchenusc/myanimelistToPlaylist/tree/main">Spotify Personalized Playlist Web Application</a>  
+    - REST API integration (Spotify, MyAnimeList)  
+    - JavaScript, Python (Flask), responsive UI  
+- <b>Systems-Level Design Simulators</b>  
+  - <a href="https://github.com/tchenusc/cache_simulator">C Cache Simulator (LRU, FIFO)</a>  
+    - C programming with memory management and bit manipulation  
+    - Implemented cache replacement policies (LRU, FIFO)  
+  - C Dynamic Memory Allocator  
+    - Custom malloc/free implementation in C  
+    - Low-level heap management and block coalescing  
+- <b>Collaborative Web Apps</b>  
+  - Rate My TA Full Stack Web Application  
+    - React, Node.js, MongoDB  
+    - Authentication and user-generated content  
+  - Weather Full Stack Web Application  
+    - Node.js, Express, JavaScript  
+    - API consumption and responsive design  
