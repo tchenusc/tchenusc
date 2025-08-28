@@ -5,7 +5,7 @@
 - <b>Full Stack IOS Application</b>
   - [Squest: Gamified Life Improvement App](https://github.com/tchenusc/Squest)
 - <b>Full Stack Web App</b>
-  - [Spotify Personalized Playlist Web Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Spotify Personalized Playlist Web Application]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/tchenusc/myanimelistToPlaylist/tree/main))
 - <b>Systems-Level Design Simulators</b>
   - [C Cache Simulator (LRU, FIFO)](https://github.com/joshmadakor1/Sentinel-Lab)
   - [C Dynamic Memory Allocator](https://github.com/joshmadakor1/Jwipe.PowerShell)
