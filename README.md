@@ -10,7 +10,7 @@
   - [C Cache Simulator (LRU, FIFO)](https://github.com/tchenusc/cache_simulator)
   - C Dynamic Memory Allocator
 - <b>Collaborative Wep Apps</b>
-  - [Rate My TA Full Stack Web Application]()
-  - [Weather Full Stack Web Application]()
+  - Rate My TA Full Stack Web Application
+  - Weather Full Stack Web Application
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
