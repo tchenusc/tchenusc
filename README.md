@@ -7,8 +7,8 @@
 - <b>Full Stack Web App</b>
   - [Spotify Personalized Playlist Web Application](https://github.com/tchenusc/myanimelistToPlaylist/tree/main)
 - <b>Systems-Level Design Simulators</b>
-  - [C Cache Simulator (LRU, FIFO)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [C Dynamic Memory Allocator](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [C Cache Simulator (LRU, FIFO)](https://github.com/tchenusc/cache_simulator)
+  - C Dynamic Memory Allocator
 - <b>Weather Wep App</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
