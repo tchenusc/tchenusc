@@ -19,9 +19,7 @@
     - Custom malloc/free implementation in C  
     - Low-level heap management and block coalescing  
 - <b>Collaborative Web Apps</b>  
-  - Rate My TA Full Stack Web Application  
-    - React, Node.js, MongoDB  
+  - Rate My TA Full Stack Web Application | Apache Tomcat, HTML, CSS, JavaScript, Java, MySQL
     - Authentication and user-generated content  
-  - Weather Full Stack Web Application  
-    - Node.js, Express, JavaScript  
+  - Weather Full Stack Web Application | Apache Tomcat, HTML, CSS, JavaScript, Java, MySQL
     - API consumption and responsive design  
