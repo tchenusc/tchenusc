@@ -19,7 +19,7 @@
     - Custom malloc/free implementation in C  
     - Low-level heap management and block coalescing  
 - <b>Collaborative Web Apps</b>  
-  - Rate My TA Full Stack Web Application | Apache Tomcat, HTML, CSS, JavaScript, Java, MySQL
+  - Rate My TA Full Stack Web Application | Apache Tomcat, HTML, CSS, JavaScript, Java, MySQL, OOP
     - Authentication and user-generated content  
-  - Weather Full Stack Web Application | Apache Tomcat, HTML, CSS, JavaScript, Java, MySQL
+  - Weather Full Stack Web Application | Apache Tomcat, HTML, CSS, JavaScript, Java, MySQL, OOP
     - API consumption and responsive design  
